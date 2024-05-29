@@ -1,0 +1,6 @@
+first install express-generator globally -> npm i express-generator -g
+Then to create new app -> express <app-name> --view=ejs
+Then cd <app-name>
+npm install
+
+It will create folder structure for your application
